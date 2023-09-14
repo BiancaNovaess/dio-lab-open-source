@@ -37,10 +37,12 @@ Ferramentas usadas: <br>
 
 
 ## GitHub Stats
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaNovaess&show_icons=true&count_private=true&hide_border=true&title_color=8A00E0&icon_color=8A00E0&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Novaes github stats" /> 
+ <div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BiancaNovaess&show_icons=true&count_private=true&hide_border=true&title_color=8A00E0&icon_color=8A00E0&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Novaes github stats"/> 
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaNovaess&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=6B00AD" />
-
-## Minhas contribuições
+  </div>
+  
+## Minhas contribuições <br>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BiancaNovaess&repo=dio-lab-open-source&bg_color=000&border_color=8A00E0&show_icons=true&icon_color=8A00E0&title_color=8A00E0text_color=000)](https://github.com/BiancaNovaess/dio-lab-open-source.git)
